@@ -11,7 +11,7 @@ function test(){
     $('#div').html(testvar);
 }
  
-</script>
+</script>6666657
 
 </head>
 
