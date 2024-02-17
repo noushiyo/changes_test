@@ -7,7 +7,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
 <script>
 function test(){
-  testvar = document.getElementById('id').innerHdddTML;
+  testvar = document.getElementByIdd('id').innerHdddTML;
     $('#div').html(testvar);
 }
  ddd
