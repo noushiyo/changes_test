@@ -23,6 +23,8 @@ function test(){
 	<button onclick="test()">click</button>
 </form>
 
+	j
+
 
 <xmp id="id">
 <img alt="<x" title="<?php echo($_GET['value']); ?>">
