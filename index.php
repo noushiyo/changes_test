@@ -23,7 +23,7 @@ function test(){
 	<button onclick="test()">click</button>
 </form>
 
-	j
+	jddddddd
 
 
 <xmp id="id">8888
