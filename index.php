@@ -11,7 +11,7 @@ function test(){
     $('#div').html(testvar);
 }
  
-</script>6666657
+</script>
 
 </head>
 
@@ -33,4 +33,3 @@ function test(){
 
 </body>
 </html>
-22ss
