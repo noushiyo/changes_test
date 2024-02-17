@@ -31,7 +31,5 @@ function test(){
 </xmp>
 <div id="div"></div>
 
-12345
-
 </body>
 </html>
