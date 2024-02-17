@@ -31,5 +31,7 @@ function test(){
 </xmp>
 <div id="div"></div>
 
+1234
+
 </body>
 </html>
