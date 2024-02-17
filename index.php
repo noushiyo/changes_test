@@ -11,7 +11,7 @@ function test(){
     $('#div').html(testvar);
 }
  
-</script>2
+</script>
 
 </head>
 
