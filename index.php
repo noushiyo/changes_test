@@ -10,7 +10,7 @@ function test(){
   testvar = document.getElementById('id').innerHdddTML;
     $('#div').html(testvar);
 }
- dd
+ ddd
 </script>
 
 </head>
