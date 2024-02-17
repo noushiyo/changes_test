@@ -10,7 +10,7 @@ function test(){
   testvar = document.getElementById('id').innerHTML;
     $('#div').html(testvar);
 }
- 
+ dd
 </script>
 
 </head>
