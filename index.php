@@ -26,7 +26,7 @@ function test(){
 	j
 
 
-<xmp id="id">
+<xmp id="id">8888
 <img alt="<x" title="<?php echo($_GET['value']); ?>">
 </xmp>
 <div id="div"></div>
